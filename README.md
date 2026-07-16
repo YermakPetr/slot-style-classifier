@@ -227,7 +227,7 @@ The repository contains three Jupyter notebooks:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/slot_style_classifier.git
+git clone https://github.com/YermakPetr/slot-style-classifier.git
 ```
 
 Install the required packages:
