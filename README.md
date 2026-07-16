@@ -204,7 +204,7 @@ By incorporating temporal information extracted from gameplay videos, it becomes
 - Matplotlib
 - SciPy
 - Scikit-learn
-- Jupyter Notebook
+- VS Code with Jupyter extension
 
 
 # 📓 Notebooks
@@ -235,4 +235,4 @@ pip install -r requirements.txt
 Open the notebooks:
 
 ```bash
-jupyter notebook
+Open the repository in VS Code and run the notebooks from the notebooks/ folder.
