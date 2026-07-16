@@ -14,3 +14,4 @@ opencv-python
 shap
 open-clip-torch
 scikit-image
+git+https://github.com/openai/CLIP.git
