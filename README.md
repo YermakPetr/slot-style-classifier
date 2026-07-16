@@ -27,27 +27,23 @@ The objective of this project is to measure gameplay dynamics automatically and 
 
 # 📂 Project Structure
 
-slot_style_classifier/
-│
+```text
+slot-style-classifier/
 ├── data/
-│   ├── processed_3styles/          # 300 preprocessed screenshots
+│   ├── processed_3styles/
 │   │   ├── Dominant_Characters/
 │   │   ├── Iconic_Symbols/
 │   │   └── Secondary_Character_Symbols/
-│   │
-│   └── videos/                     # 81 gameplay recordings
-│
-├── images/                         # Figures used in README
-│
+│   └── videos/
+├── images/
 ├── notebooks/
 │   ├── 01_dataset_check.ipynb
-│   ├── slot_style_classifier_new.ipynb
-│   └── slot_style_dynamic.ipynb
-│
+│   ├── 02_static_image_classification.ipynb
+│   └── 03_dynamic_video_analysis.ipynb
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-
+```
 # 📊 Dataset
 
 The project consists of two independent datasets.
