@@ -1,6 +1,6 @@
 # 🎰 Slot Style Classifier
 
-### AI-based Dynamic Slot Style Analysis using Computer Vision and Unsupervised Learning
+### Static and Dynamic Slot Style Analysis using Computer Vision and Machine Learning
 
 ## 📖 Project Overview
 
