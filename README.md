@@ -216,10 +216,10 @@ By incorporating temporal information extracted from gameplay videos, it becomes
 The repository contains three Jupyter notebooks:
 
 | Notebook | Description |
-|-----------|-------------|
-| `01_dataset_check.ipynb` | Dataset validation and preprocessing |
-| `slot_style_classifier_new.ipynb` | Static image analysis and CNN classification |
-| `slot_style_dynamic.ipynb` | Dynamic video analysis and K-Means clustering |
+|---|---|
+| [`01_dataset_check.ipynb`](notebooks/01_dataset_check.ipynb) | Dataset validation and preprocessing |
+| [`slot_style_classifier_new.ipynb`](notebooks/slot_style_classifier_new.ipynb) | Static image analysis and CNN classification |
+| [`slot_style_dynamic.ipynb`](notebooks/slot_style_dynamic.ipynb) | Dynamic video analysis and K-Means clustering |
 
 
 # 🚀 Installation
