@@ -12,3 +12,5 @@ streamlit
 tqdm
 opencv-python
 shap
+open-clip-torch
+scikit-image
