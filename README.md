@@ -190,9 +190,13 @@ Three naturally occurring groups emerged, representing different dynamic gamepla
 
 ## Conclusion
 
-This project demonstrates that static screenshots alone are insufficient to characterize slot game behavior.
+This project shows that static screenshots alone are not sufficient for reliable slot style classification.
 
-By incorporating temporal information extracted from gameplay videos, it becomes possible to identify meaningful dynamic patterns and automatically group games based on their visual behavior.
+The ResNet18 transfer learning experiment revealed substantial overlap between the manually defined visual classes, especially for visually similar games.
+
+The video-based approach provided more informative features by capturing motion intensity, temporal stability, active regions, and anchor candidates.
+
+Using these dynamic features, K-Means clustering made it possible to identify recurring gameplay patterns without relying on predefined labels.
 
 
 # 🛠 Technologies
