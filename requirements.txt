@@ -2,6 +2,7 @@ torch
 torchvision
 torchaudio
 numpy
+scipy
 pandas
 matplotlib
 seaborn
